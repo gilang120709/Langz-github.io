@@ -1,2 +1,2 @@
-# Langz-github.io
+# Langz.github.io
 Tugas mapel SIJDA
